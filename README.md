@@ -6,7 +6,7 @@
 npm install
 ```
 
-### Run all individually
+### Run
 
 ```bash
 npm start

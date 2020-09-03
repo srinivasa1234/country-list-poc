@@ -14,10 +14,7 @@ const store = createStore(
 );
 
 // set up a store subscription listener
-// to store the users token in localStorage
 
-// initialize current state from redux store for subscription comparison
-// preventing undefined error
 let currentState = store.getState();
 
 store.subscribe(() => {
