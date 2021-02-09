@@ -1,5 +1,7 @@
 # POC app
 
+Country dropdown with slected country regions dropdown.
+
 ### Install all dependencies
 
 ```bash

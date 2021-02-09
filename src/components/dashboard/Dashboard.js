@@ -3,8 +3,7 @@ import PropTypes from "prop-types";
 import { connect } from "react-redux";
 import {
   CountryDropdown,
-  RegionDropdown,
-  CountryRegionData,
+  RegionDropdown
 } from "react-country-region-selector";
 
 const Dashboard = () => {
